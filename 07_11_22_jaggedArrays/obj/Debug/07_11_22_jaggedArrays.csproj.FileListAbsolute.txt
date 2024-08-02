@@ -1,0 +1,7 @@
+C:\Users\yusuf\Desktop\c#\07_11_22_jaggedArrays\07_11_22_jaggedArrays\obj\Debug\07_11_22_jaggedArrays.csproj.AssemblyReference.cache
+C:\Users\yusuf\Desktop\c#\07_11_22_jaggedArrays\07_11_22_jaggedArrays\obj\Debug\07_11_22_jaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\c#\07_11_22_jaggedArrays\07_11_22_jaggedArrays\bin\Debug\07_11_22_jaggedArrays.exe.config
+C:\Users\yusuf\Desktop\c#\07_11_22_jaggedArrays\07_11_22_jaggedArrays\bin\Debug\07_11_22_jaggedArrays.exe
+C:\Users\yusuf\Desktop\c#\07_11_22_jaggedArrays\07_11_22_jaggedArrays\bin\Debug\07_11_22_jaggedArrays.pdb
+C:\Users\yusuf\Desktop\c#\07_11_22_jaggedArrays\07_11_22_jaggedArrays\obj\Debug\07_11_22_jaggedArrays.exe
+C:\Users\yusuf\Desktop\c#\07_11_22_jaggedArrays\07_11_22_jaggedArrays\obj\Debug\07_11_22_jaggedArrays.pdb
